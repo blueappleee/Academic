@@ -13,4 +13,3 @@ Prompts user for a base float and an integer exponent and calculates the results
 
 All work done by:
 - Connor Ciavarella
-- 251023554
