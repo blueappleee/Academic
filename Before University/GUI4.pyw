@@ -1,3 +1,4 @@
+### Determines exact value of trig functions
 from tkinter import *
 import tkinter as tk
 import math
