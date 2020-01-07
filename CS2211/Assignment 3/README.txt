@@ -12,4 +12,3 @@ Prompts user for a integer and returns the seven segmented display format
 
 All work done by:
 - Connor Ciavarella
-- 251023554
