@@ -17,4 +17,3 @@ Prompts user for a value which determines the precision that eulers value will b
 
 All work done by:
 - Connor Ciavarella
-- 251023554
