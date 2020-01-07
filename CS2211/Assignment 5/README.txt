@@ -17,4 +17,3 @@ Prompts user for amount of data to allocate, then prompts user for integers unti
 
 Work done by:
 - Connor Ciavarella
-- 251023554
