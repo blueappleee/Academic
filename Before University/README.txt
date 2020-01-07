@@ -1,1 +1,1 @@
-Code written for evaluation in highschool at St Tomas of Villanova College
+Code written for evaluation in highschool at St Thomas of Villanova College
