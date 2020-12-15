@@ -1,4 +1,4 @@
-// Written by Connor Ciavarella, Student Number: 251023554
+// Written by Connor Ciavarella, Student Number: 
 // Written for CS 2211a Assignment 2 Part 1
 // This program takes a base and an exponent and calculates the result
 
