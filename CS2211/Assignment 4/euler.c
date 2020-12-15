@@ -1,4 +1,4 @@
-// Written by Connor Ciavarella, Student Number: 251023554
+// Written by Connor Ciavarella, Student Number:
 // Written for CS 2211a Assignment 4 Part 2
 // This program calculates eulers value to a user given accuracy
 
