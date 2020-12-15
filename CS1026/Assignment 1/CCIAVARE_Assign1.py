@@ -1,6 +1,6 @@
 ### Assignment 1 Computer Science 1026A 001
 ### Program by Connor Ciavarella
-### Student Number: 251023554
+### Student Number:
 ### Program uses python to take input from a user describing their beverage request and outputs the beverage details along with the cost including taxes
 
 ### all functions starting with invalid are built to handle invalid inputs by returning a invalid input statement along with ending the program
