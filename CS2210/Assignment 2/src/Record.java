@@ -1,4 +1,4 @@
-// Written by Connor Ciavarella, Student Number: 251023554
+// Written by Connor Ciavarella, Student Number: 
 // The following class provides the methods and constructor for the object type Record
 
 public class Record {
