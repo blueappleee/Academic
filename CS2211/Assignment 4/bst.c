@@ -1,4 +1,4 @@
-// Written by Connor Ciavarella, Student Number: 251023554
+// Written by Connor Ciavarella, Student Number:
 // Written for CS 2211a Assignment 4 Part 1
 
 // ====== this is in bst.c
@@ -6,13 +6,13 @@
 #include <stdlib.h>
 #include "bst.h"
 
-// Input: ’size’: size of an array
+// Input: â€™sizeâ€™: size of an array
 // Output: a pointer of type BStree,
 // i.e. a pointer to an allocated memory of BStree_struct type
 // Effect: dynamically allocate memory of type BStree_struct
 // allocate memory for a Node array of size+1 for member tree_nodes
 // allocate memory for an unsigned int array of size+1 for member free_nodes
-// set member size to ’size’;
+// set member size to â€™sizeâ€™;
 // set entry free_nodes[i] to i
 // set member top to 1;
 // set member root to 0;
@@ -92,11 +92,11 @@ int find_parent(BStree bst, Key *key, Node currNode, int index) {
 	}
 }
 
-// Input: ’bst’: a binary search tree
-// ’key’: a pointer to Key
-// ’data’: an integer
-// Effect: ’data’ with ’key’ is inserted into ’bst’
-// if ’key’ is already in ’bst’, do nothing
+// Input: â€™bstâ€™: a binary search tree
+// â€™keyâ€™: a pointer to Key
+// â€™dataâ€™: an integer
+// Effect: â€™dataâ€™ with â€™keyâ€™ is inserted into â€™bstâ€™
+// if â€™keyâ€™ is already in â€™bstâ€™, do nothing
 void bstree_insert(BStree bst, Key *key, Data data) {
 	// if size = top full so cant insert
 	if ((*bst).top == (*bst).size) {
@@ -172,7 +172,7 @@ void inorder(BStree bst, Node root) {
 
 }
 
-// Input: ’bst’: a binary search tree
+// Input: â€™bstâ€™: a binary search tree
 // Effect: print all the nodes in bst using in order traversal
 void bstree_traversal(BStree bst) {
 	// if tree not empty
@@ -202,7 +202,7 @@ void postorder_Free(BStree bst, Node root) {
 
 }
 
-// Input: ’bst’: a binary search tree
+// Input: â€™bstâ€™: a binary search tree
 // Effect: all dynamic memory used by bst are freed
 void bstree_free(BStree bst) {
 	// frees each node
