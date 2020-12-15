@@ -1,4 +1,4 @@
-// Written by Connor Ciavarella, Student Number: 251023554
+// Written by Connor Ciavarella, Student Number: 
 // this class defines the methods and constructor of the object nk_TicTacToe
 
 public class nk_TicTacToe {
