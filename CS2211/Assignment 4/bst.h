@@ -1,4 +1,4 @@
-// Connor Ciavarella, Student Number: 251023554
+// Connor Ciavarella, Student Number: 
 // CS 2211a Assignment 4 Part 1
 
 // ====== this is in bst.h
