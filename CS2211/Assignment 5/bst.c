@@ -1,4 +1,4 @@
-// Parts Written by Connor Ciavarella, Student Number: 251023554
+// Parts Written by Connor Ciavarella, Student Number:
 // Written for CS 2211a Assignment 5
 
 // includes libraries and header file
