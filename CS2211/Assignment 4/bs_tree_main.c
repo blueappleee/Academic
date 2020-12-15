@@ -1,4 +1,4 @@
-// Written by Connor Ciavarella, Student Number: 251023554
+// Written by Connor Ciavarella, Student Number: 
 // Written for CS 2211a Assignment 4 Part 1
 
 // ====== this is a sample main program: bs_tree_main.c
