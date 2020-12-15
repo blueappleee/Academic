@@ -1,4 +1,4 @@
-// Written by Connor Ciavarella, Student Number: 251023554
+// Written by Connor Ciavarella, Student Number:
 // Written for CS2210 Assignment 4
 
 // Following class defines the Pixel type
