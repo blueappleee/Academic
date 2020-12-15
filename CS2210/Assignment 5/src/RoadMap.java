@@ -1,4 +1,4 @@
-// Written by Connor Ciavarella, Student Number: 251023554
+// Written by Connor Ciavarella, Student Number: 
 // Written for CS2210 Assignment 5
 // all given test maps work but map 8 takes a while just as a heads up
 
